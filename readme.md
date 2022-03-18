@@ -1,4 +1,5 @@
 # Sơ lược
+
 > Là người có tổ chức, có trách nhiệm và lòng nhân ái cao đôi khi có hơi nổi loạn một chút 
 > 
 > Có tính cách nhiệt huyết, luôn đấu tranh để giành lại công bằng và luôn nhìn thẳng vào thực tế
@@ -12,16 +13,17 @@
 > Luôn luôn lắng nghe, luôn luôn thấu hiểu và đưa ra lời khuyên đúng đắn cho mọi người. 
 
 # Vài nét nhược điểm:
+
 > Chuộng sự tự do
-    * Với nét tính cách yêu mến sự khám phá tìm tòi nên rất ghét mọi sự ràng buộc.
+    - Với nét tính cách yêu mến sự khám phá tìm tòi nên rất ghét mọi sự ràng buộc.
     
 > Có đời sống nội tâm phức tạp 
-    * Niềm vui tuôn chảy như nước đi khắp nơi, nỗi buồn khép lại trong tư tưởng
-    * Có năng lực phán đoán và nhìn thấu tâm tư người khác, nhưng đó là bức tường ngăn cách người khác sẻ chia và đến gần
+    - Niềm vui tuôn chảy như nước đi khắp nơi, nỗi buồn khép lại trong tư tưởng
+    - Có năng lực phán đoán và nhìn thấu tâm tư người khác, nhưng đó là bức tường ngăn cách người khác sẻ chia và đến gần
     
 > Có phần cố chấp trong tư tưởng, bướng bỉnh
 
 # Quan niệm yêu đương
 
 > Khó trong việc chọn đối tượng, không phải gặp ai cũng có thể thương nhớ. Song đôi lúc chỉ cần “uống nhầm một ánh mắt”, có thể mang theo “cơn say theo cả đời”. Cái khó trong tình yêu chính là khó “bộc bạch” lòng mình với đối phương.
-> 
+
