@@ -15,7 +15,7 @@
 # Vài nét nhược điểm:
 
 > Chuộng sự tự do
-    - Với nét tính cách yêu mến sự khám phá tìm tòi nên rất ghét mọi sự ràng buộc.
+    - Với nét tính cách yêu mến sự khám phá tìm tòi nên rất ghét mọi sự ràng buộc, mọi sự ràng buộc có thể sẽ bị gạt bỏ
     
 > Có đời sống nội tâm phức tạp 
     - Niềm vui tuôn chảy như nước đi khắp nơi, nỗi buồn khép lại trong tư tưởng
